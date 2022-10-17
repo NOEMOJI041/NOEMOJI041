@@ -18,5 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noemoji041&show_icons=true&locale=en" alt="noemoji041" /></p>
 
-[![@noemoji041's Holopin board](https://holopin.me/noemoji041)](https://holopin.io/@noemoji041)
+
 
